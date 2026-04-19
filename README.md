@@ -1,8 +1,19 @@
-# Inventory Management API
+# Inventra
 
 A robust, multi-tenant inventory management REST API built with Node.js, Express, TypeScript, and Prisma.  
 The system supports multiple shops, each with independent inventory tracking, customer orders, and purchase orders.  
 With Redis caching, p95 latency is reduced by 74%, and full system reliability is ensured with **95% test coverage**.
+
+![Node.js](https://img.shields.io/badge/Node.js-v20+-339933?logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Coverage](https://img.shields.io/badge/Coverage-95%25-brightgreen)
+![k6](https://img.shields.io/badge/Load_Testing-k6-7D64FF?logo=k6&logoColor=white)
+![Biome](https://img.shields.io/badge/Linting-Biome-60A5FA)
 
 ## Table of Contents
 
